@@ -1,16 +1,52 @@
-# bloc_practice
+📌 BLoC Counter App
+A simple Flutter project demonstrating state management using BLoC (Business Logic Component).
 
-A new Flutter project.
+🚀 Features
+✅ Increment & decrement counter functionality
+✅ State management using Flutter BLoC
+✅ Clean and structured code
 
-## Getting Started
+📂 Project Structure
 
-This project is a starting point for a Flutter application.
+bloc_practice/
+│── lib/
+│   ├── main.dart
+│   ├── cubit/
+│   │   ├── counter_cubit.dart
+│   ├── bloc/
+│   │   ├── counter_event.dart
+│   │   ├── counter_bloc.dart
+│   ├── screens/
+│   │   ├── home_page.dart
+│   │   ├── inc_dec_screen.dart
+│── pubspec.yaml
+│── README.md
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠 Technologies Used
+Flutter for UI development
+BLoC (flutter_bloc) for state management
+Dart as the programming language
+🔧 Installation & Setup
+1️⃣ Clone the repository:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+bash
+
+git clone https://github.com/yourusername/bloc_practice.git
+cd bloc_practice
+2️⃣ Install dependencies:
+
+bash
+
+flutter pub get
+3️⃣ Run the app:
+
+bash
+
+flutter run
+📚 Learn More
+If you're new to Flutter and BLoC, check out these resources:
+
+Flutter BLoC Documentation
+Flutter Official Docs
+State Management Guide
