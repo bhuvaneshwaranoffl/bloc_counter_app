@@ -30,6 +30,9 @@ Dart as the programming language
 🔧 Installation & Setup
 1️⃣ Clone the repository:
 
+![image](https://github.com/user-attachments/assets/71d770c7-7416-4384-8738-4e94e342823f)
+
+
 bash
 
 git clone https://github.com/yourusername/bloc_practice.git
